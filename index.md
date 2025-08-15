@@ -6,7 +6,8 @@ var myVar = "Hello, world!";
 - [ ] Turn on GitHub Pages
 - [ ] Outline my portfolio
 - [ ] Introduce myself to the world
-organise ideas using markdown a light weight language for text formatting 
+organize ideas using markdown a light weight language for text formatting 
+
 
 
 
